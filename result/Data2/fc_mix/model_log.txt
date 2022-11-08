@@ -1,0 +1,200 @@
+Epoch [100/10000], TrainingDataset: Loss: 0.9220 Macrof1: 0.9270 Microf1: 0.7027
+ValidDataset: Loss: 0.7628 Macrof1: 0.9261 Microf1: 0.6586
+Epoch [200/10000], TrainingDataset: Loss: 0.5166 Macrof1: 0.5018 Microf1: 0.8975
+ValidDataset: Loss: 0.9022 Macrof1: 0.5801 Microf1: 0.8603
+Epoch [300/10000], TrainingDataset: Loss: 0.2454 Macrof1: 0.2337 Microf1: 0.9688
+ValidDataset: Loss: 0.9695 Macrof1: 0.4186 Microf1: 0.9118
+Epoch [400/10000], TrainingDataset: Loss: 0.1174 Macrof1: 0.1186 Microf1: 0.9900
+ValidDataset: Loss: 0.9907 Macrof1: 0.3394 Microf1: 0.9129
+Epoch [500/10000], TrainingDataset: Loss: 0.5158 Macrof1: 0.3873 Microf1: 0.8564
+ValidDataset: Loss: 0.8587 Macrof1: 0.5399 Microf1: 0.7989
+Epoch [600/10000], TrainingDataset: Loss: 0.1464 Macrof1: 0.1070 Microf1: 0.9785
+ValidDataset: Loss: 0.9795 Macrof1: 0.3776 Microf1: 0.8811
+Epoch [700/10000], TrainingDataset: Loss: 0.0498 Macrof1: 0.0648 Microf1: 0.9849
+ValidDataset: Loss: 0.9857 Macrof1: 0.4270 Microf1: 0.8912
+Epoch [800/10000], TrainingDataset: Loss: 0.0349 Macrof1: 0.0341 Microf1: 0.9949
+ValidDataset: Loss: 0.9956 Macrof1: 0.4149 Microf1: 0.9090
+Epoch [900/10000], TrainingDataset: Loss: 0.0222 Macrof1: 0.0322 Microf1: 0.9914
+ValidDataset: Loss: 0.9919 Macrof1: 0.4546 Microf1: 0.9148
+Epoch [1000/10000], TrainingDataset: Loss: 0.2748 Macrof1: 0.2320 Microf1: 0.9092
+ValidDataset: Loss: 0.9103 Macrof1: 0.6146 Microf1: 0.8287
+Epoch [1100/10000], TrainingDataset: Loss: 0.0945 Macrof1: 0.0657 Microf1: 0.9798
+ValidDataset: Loss: 0.9819 Macrof1: 0.6362 Microf1: 0.8797
+Epoch [1200/10000], TrainingDataset: Loss: 0.0310 Macrof1: 0.0256 Microf1: 0.9978
+ValidDataset: Loss: 0.9981 Macrof1: 0.7277 Microf1: 0.9287
+Epoch [1300/10000], TrainingDataset: Loss: 0.0895 Macrof1: 0.0406 Microf1: 0.9883
+ValidDataset: Loss: 0.9900 Macrof1: 0.6776 Microf1: 0.9167
+Epoch [1400/10000], TrainingDataset: Loss: 0.0102 Macrof1: 0.0107 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.8012 Microf1: 0.9265
+Epoch [1500/10000], TrainingDataset: Loss: 0.0084 Macrof1: 0.0092 Microf1: 0.9992
+ValidDataset: Loss: 0.9994 Macrof1: 0.7743 Microf1: 0.9262
+Epoch [1600/10000], TrainingDataset: Loss: 0.0060 Macrof1: 0.0066 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.8235 Microf1: 0.9135
+Epoch [1700/10000], TrainingDataset: Loss: 0.0090 Macrof1: 0.0078 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6342 Microf1: 0.9165
+Epoch [1800/10000], TrainingDataset: Loss: 0.8036 Macrof1: 0.6741 Microf1: 0.7026
+ValidDataset: Loss: 0.7198 Macrof1: 0.8255 Microf1: 0.6679
+Epoch [1900/10000], TrainingDataset: Loss: 0.0906 Macrof1: 0.0756 Microf1: 0.9796
+ValidDataset: Loss: 0.9795 Macrof1: 0.5757 Microf1: 0.9021
+Epoch [2000/10000], TrainingDataset: Loss: 0.0294 Macrof1: 0.0280 Microf1: 0.9923
+ValidDataset: Loss: 0.9938 Macrof1: 0.5068 Microf1: 0.9264
+Epoch [2100/10000], TrainingDataset: Loss: 0.7200 Macrof1: 0.9680 Microf1: 0.7074
+ValidDataset: Loss: 0.7092 Macrof1: 1.4533 Microf1: 0.6301
+Epoch [2200/10000], TrainingDataset: Loss: 0.0682 Macrof1: 0.0485 Microf1: 0.9856
+ValidDataset: Loss: 0.9863 Macrof1: 0.4575 Microf1: 0.9138
+Epoch [2300/10000], TrainingDataset: Loss: 0.0176 Macrof1: 0.0160 Microf1: 0.9976
+ValidDataset: Loss: 0.9981 Macrof1: 0.6024 Microf1: 0.8966
+Epoch [2400/10000], TrainingDataset: Loss: 0.0479 Macrof1: 0.0353 Microf1: 0.9886
+ValidDataset: Loss: 0.9888 Macrof1: 0.5637 Microf1: 0.8876
+Epoch [2500/10000], TrainingDataset: Loss: 0.0362 Macrof1: 0.0736 Microf1: 0.9789
+ValidDataset: Loss: 0.9757 Macrof1: 0.6294 Microf1: 0.8869
+Epoch [2600/10000], TrainingDataset: Loss: 0.0083 Macrof1: 0.0068 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5201 Microf1: 0.9112
+Epoch [2700/10000], TrainingDataset: Loss: 0.0063 Macrof1: 0.0045 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4921 Microf1: 0.9153
+Epoch [2800/10000], TrainingDataset: Loss: 0.2568 Macrof1: 0.1810 Microf1: 0.9303
+ValidDataset: Loss: 0.9315 Macrof1: 0.4817 Microf1: 0.8740
+Epoch [2900/10000], TrainingDataset: Loss: 0.0303 Macrof1: 0.0248 Microf1: 0.9947
+ValidDataset: Loss: 0.9950 Macrof1: 0.5054 Microf1: 0.9089
+Epoch [3000/10000], TrainingDataset: Loss: 0.0128 Macrof1: 0.0120 Microf1: 0.9994
+ValidDataset: Loss: 0.9994 Macrof1: 0.5102 Microf1: 0.9133
+Epoch [3100/10000], TrainingDataset: Loss: 0.0648 Macrof1: 0.0599 Microf1: 0.9845
+ValidDataset: Loss: 0.9844 Macrof1: 0.4934 Microf1: 0.8938
+Epoch [3200/10000], TrainingDataset: Loss: 0.0210 Macrof1: 0.0195 Microf1: 0.9965
+ValidDataset: Loss: 0.9969 Macrof1: 0.5664 Microf1: 0.9158
+Epoch [3300/10000], TrainingDataset: Loss: 0.0090 Macrof1: 0.0081 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6418 Microf1: 0.9205
+Epoch [3400/10000], TrainingDataset: Loss: 0.0255 Macrof1: 0.0176 Microf1: 0.9968
+ValidDataset: Loss: 0.9975 Macrof1: 0.4735 Microf1: 0.9336
+Epoch [3500/10000], TrainingDataset: Loss: 0.0102 Macrof1: 0.0100 Microf1: 0.9992
+ValidDataset: Loss: 0.9994 Macrof1: 0.5269 Microf1: 0.9380
+Epoch [3600/10000], TrainingDataset: Loss: 0.0042 Macrof1: 0.0042 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5605 Microf1: 0.9375
+Epoch [3700/10000], TrainingDataset: Loss: 0.0027 Macrof1: 0.0026 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6228 Microf1: 0.9317
+Epoch [3800/10000], TrainingDataset: Loss: 0.0615 Macrof1: 0.0446 Microf1: 0.9853
+ValidDataset: Loss: 0.9851 Macrof1: 0.4667 Microf1: 0.9175
+Epoch [3900/10000], TrainingDataset: Loss: 0.0136 Macrof1: 0.0132 Microf1: 0.9993
+ValidDataset: Loss: 0.9994 Macrof1: 0.4484 Microf1: 0.9211
+Epoch [4000/10000], TrainingDataset: Loss: 0.0084 Macrof1: 0.0072 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4601 Microf1: 0.9192
+Epoch [4100/10000], TrainingDataset: Loss: 0.0043 Macrof1: 0.0038 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4802 Microf1: 0.9160
+Epoch [4200/10000], TrainingDataset: Loss: 0.0028 Macrof1: 0.0025 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4543 Microf1: 0.9214
+Epoch [4300/10000], TrainingDataset: Loss: 0.1135 Macrof1: 0.0903 Microf1: 0.9686
+ValidDataset: Loss: 0.9689 Macrof1: 0.4454 Microf1: 0.9063
+Epoch [4400/10000], TrainingDataset: Loss: 0.0312 Macrof1: 0.0282 Microf1: 0.9924
+ValidDataset: Loss: 0.9925 Macrof1: 0.4827 Microf1: 0.9006
+Epoch [4500/10000], TrainingDataset: Loss: 0.0142 Macrof1: 0.0133 Microf1: 0.9984
+ValidDataset: Loss: 0.9988 Macrof1: 0.5370 Microf1: 0.9153
+Epoch [4600/10000], TrainingDataset: Loss: 0.0253 Macrof1: 0.0223 Microf1: 0.9959
+ValidDataset: Loss: 0.9963 Macrof1: 0.4393 Microf1: 0.9089
+Epoch [4700/10000], TrainingDataset: Loss: 0.0150 Macrof1: 0.0105 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5297 Microf1: 0.9029
+Epoch [4800/10000], TrainingDataset: Loss: 0.0066 Macrof1: 0.0055 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5419 Microf1: 0.9167
+Epoch [4900/10000], TrainingDataset: Loss: 0.1859 Macrof1: 0.1523 Microf1: 0.9428
+ValidDataset: Loss: 0.9446 Macrof1: 0.3817 Microf1: 0.8983
+Epoch [5000/10000], TrainingDataset: Loss: 0.0285 Macrof1: 0.0274 Microf1: 0.9941
+ValidDataset: Loss: 0.9944 Macrof1: 0.3775 Microf1: 0.9408
+Epoch [5100/10000], TrainingDataset: Loss: 0.0187 Macrof1: 0.0204 Microf1: 0.9957
+ValidDataset: Loss: 0.9963 Macrof1: 0.4802 Microf1: 0.9324
+Epoch [5200/10000], TrainingDataset: Loss: 0.0097 Macrof1: 0.0096 Microf1: 0.9992
+ValidDataset: Loss: 0.9994 Macrof1: 0.5384 Microf1: 0.9403
+Epoch [5300/10000], TrainingDataset: Loss: 0.0041 Macrof1: 0.0043 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5406 Microf1: 0.9448
+Epoch [5400/10000], TrainingDataset: Loss: 0.0028 Macrof1: 0.0026 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5619 Microf1: 0.9349
+Epoch [5500/10000], TrainingDataset: Loss: 0.0194 Macrof1: 0.0212 Microf1: 0.9972
+ValidDataset: Loss: 0.9969 Macrof1: 0.4784 Microf1: 0.9276
+Epoch [5600/10000], TrainingDataset: Loss: 0.0045 Macrof1: 0.0044 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4212 Microf1: 0.9415
+Epoch [5700/10000], TrainingDataset: Loss: 0.0657 Macrof1: 0.0540 Microf1: 0.9807
+ValidDataset: Loss: 0.9813 Macrof1: 0.3461 Microf1: 0.9215
+Epoch [5800/10000], TrainingDataset: Loss: 0.0112 Macrof1: 0.0121 Microf1: 0.9981
+ValidDataset: Loss: 0.9981 Macrof1: 0.4306 Microf1: 0.9218
+Epoch [5900/10000], TrainingDataset: Loss: 0.0272 Macrof1: 0.0301 Microf1: 0.9835
+ValidDataset: Loss: 0.9844 Macrof1: 0.3316 Microf1: 0.9330
+Epoch [6000/10000], TrainingDataset: Loss: 0.0039 Macrof1: 0.0039 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4629 Microf1: 0.9282
+Epoch [6100/10000], TrainingDataset: Loss: 0.0551 Macrof1: 0.0480 Microf1: 0.9852
+ValidDataset: Loss: 0.9857 Macrof1: 0.2271 Microf1: 0.9300
+Epoch [6200/10000], TrainingDataset: Loss: 0.0128 Macrof1: 0.0122 Microf1: 0.9992
+ValidDataset: Loss: 0.9994 Macrof1: 0.2810 Microf1: 0.9267
+Epoch [6300/10000], TrainingDataset: Loss: 0.0092 Macrof1: 0.0082 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.3357 Microf1: 0.9229
+Epoch [6400/10000], TrainingDataset: Loss: 0.0054 Macrof1: 0.0042 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.3902 Microf1: 0.9271
+Epoch [6500/10000], TrainingDataset: Loss: 0.2929 Macrof1: 0.2033 Microf1: 0.9296
+ValidDataset: Loss: 0.9303 Macrof1: 0.3419 Microf1: 0.9023
+Epoch [6600/10000], TrainingDataset: Loss: 0.0185 Macrof1: 0.0184 Microf1: 0.9984
+ValidDataset: Loss: 0.9988 Macrof1: 0.3665 Microf1: 0.9075
+Epoch [6700/10000], TrainingDataset: Loss: 0.0107 Macrof1: 0.0101 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5418 Microf1: 0.9147
+Epoch [6800/10000], TrainingDataset: Loss: 0.0251 Macrof1: 0.0210 Microf1: 0.9930
+ValidDataset: Loss: 0.9925 Macrof1: 0.5528 Microf1: 0.9076
+Epoch [6900/10000], TrainingDataset: Loss: 0.0027 Macrof1: 0.0029 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6029 Microf1: 0.9298
+Epoch [7000/10000], TrainingDataset: Loss: 0.0019 Macrof1: 0.0017 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.7165 Microf1: 0.9171
+Epoch [7100/10000], TrainingDataset: Loss: 0.0356 Macrof1: 0.0283 Microf1: 0.9948
+ValidDataset: Loss: 0.9950 Macrof1: 0.4476 Microf1: 0.9142
+Epoch [7200/10000], TrainingDataset: Loss: 0.0104 Macrof1: 0.0083 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6088 Microf1: 0.9170
+Epoch [7300/10000], TrainingDataset: Loss: 0.0045 Macrof1: 0.0041 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6359 Microf1: 0.9122
+Epoch [7400/10000], TrainingDataset: Loss: 0.0035 Macrof1: 0.0028 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.8009 Microf1: 0.9214
+Epoch [7500/10000], TrainingDataset: Loss: 0.0249 Macrof1: 0.0256 Microf1: 0.9933
+ValidDataset: Loss: 0.9932 Macrof1: 0.6440 Microf1: 0.9284
+Epoch [7600/10000], TrainingDataset: Loss: 0.0975 Macrof1: 0.0488 Microf1: 0.9778
+ValidDataset: Loss: 0.9801 Macrof1: 0.8582 Microf1: 0.9154
+Epoch [7700/10000], TrainingDataset: Loss: 0.0045 Macrof1: 0.0037 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5698 Microf1: 0.9318
+Epoch [7800/10000], TrainingDataset: Loss: 0.0033 Macrof1: 0.0027 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5448 Microf1: 0.9316
+Epoch [7900/10000], TrainingDataset: Loss: 0.0020 Macrof1: 0.0016 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5644 Microf1: 0.9284
+Epoch [8000/10000], TrainingDataset: Loss: 0.1242 Macrof1: 0.0809 Microf1: 0.9768
+ValidDataset: Loss: 0.9763 Macrof1: 0.3795 Microf1: 0.8887
+Epoch [8100/10000], TrainingDataset: Loss: 0.0154 Macrof1: 0.0147 Microf1: 0.9995
+ValidDataset: Loss: 0.9994 Macrof1: 0.3710 Microf1: 0.9507
+Epoch [8200/10000], TrainingDataset: Loss: 0.0084 Macrof1: 0.0076 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.3700 Microf1: 0.9554
+Epoch [8300/10000], TrainingDataset: Loss: 0.0056 Macrof1: 0.0053 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4014 Microf1: 0.9344
+Epoch [8400/10000], TrainingDataset: Loss: 0.0033 Macrof1: 0.0030 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.3755 Microf1: 0.9449
+Epoch [8500/10000], TrainingDataset: Loss: 0.4213 Macrof1: 0.3728 Microf1: 0.8774
+ValidDataset: Loss: 0.8755 Macrof1: 0.5318 Microf1: 0.8332
+Epoch [8600/10000], TrainingDataset: Loss: 0.0220 Macrof1: 0.0190 Microf1: 0.9960
+ValidDataset: Loss: 0.9963 Macrof1: 0.4017 Microf1: 0.9093
+Epoch [8700/10000], TrainingDataset: Loss: 0.0096 Macrof1: 0.0100 Microf1: 0.9994
+ValidDataset: Loss: 0.9994 Macrof1: 0.4266 Microf1: 0.9025
+Epoch [8800/10000], TrainingDataset: Loss: 0.0599 Macrof1: 0.0566 Microf1: 0.9761
+ValidDataset: Loss: 0.9776 Macrof1: 0.4738 Microf1: 0.9128
+Epoch [8900/10000], TrainingDataset: Loss: 0.0066 Macrof1: 0.0072 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4456 Microf1: 0.9238
+Epoch [9000/10000], TrainingDataset: Loss: 0.0030 Macrof1: 0.0038 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4509 Microf1: 0.9321
+Epoch [9100/10000], TrainingDataset: Loss: 0.0017 Macrof1: 0.0023 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.4668 Microf1: 0.9400
+Epoch [9200/10000], TrainingDataset: Loss: 0.0011 Macrof1: 0.0014 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5036 Microf1: 0.9366
+Epoch [9300/10000], TrainingDataset: Loss: 0.0189 Macrof1: 0.0134 Microf1: 0.9986
+ValidDataset: Loss: 0.9988 Macrof1: 0.4481 Microf1: 0.9131
+Epoch [9400/10000], TrainingDataset: Loss: 0.0088 Macrof1: 0.0087 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5814 Microf1: 0.9048
+Epoch [9500/10000], TrainingDataset: Loss: 0.0030 Macrof1: 0.0030 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5982 Microf1: 0.9146
+Epoch [9600/10000], TrainingDataset: Loss: 0.0017 Macrof1: 0.0017 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6554 Microf1: 0.9146
+Epoch [9700/10000], TrainingDataset: Loss: 0.0011 Macrof1: 0.0010 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6995 Microf1: 0.9146
+Epoch [9800/10000], TrainingDataset: Loss: 0.0865 Macrof1: 0.0632 Microf1: 0.9781
+ValidDataset: Loss: 0.9788 Macrof1: 0.3971 Microf1: 0.9136
+Epoch [9900/10000], TrainingDataset: Loss: 0.0072 Macrof1: 0.0070 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.5575 Microf1: 0.9162
+Epoch [10000/10000], TrainingDataset: Loss: 0.0021 Macrof1: 0.0024 Microf1: 1.0000
+ValidDataset: Loss: 1.0000 Macrof1: 0.6018 Microf1: 0.9179
