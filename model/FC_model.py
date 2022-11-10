@@ -6,6 +6,7 @@ from torch.utils.data import  DataLoader
 import os
 from sklearn.metrics import f1_score
 from torch.utils.tensorboard import SummaryWriter
+import time
 
 
 class FcModel(nn.Module):
@@ -77,23 +78,25 @@ class FullConnectModel:
                 optimizer.zero_grad()
                 loss.backward()
                 optimizer.step()
-                if (epoch + 1) % 10 == 0 and step == 0:
-                    microf1_valid, macrof1_valid, loss_valid = self.check_accurancy(valid_loader, criterion)
-                    microf1_train, macrof1_train, loss_train = self.check_accurancy(train_loader, criterion)
-                    self.writer.add_scalar('Loss/train', loss_train, epoch)
-                    self.writer.add_scalar('Loss/valid', loss_valid, epoch)
-                    self.writer.add_scalar('Microf1/train', microf1_train, epoch)
-                    self.writer.add_scalar('Microf1/valid', microf1_valid, epoch)
-                    print('Epoch [{}/{}], Loss: {:.4f} macrof1_train: {:.4f} microf1_train: {:.4f} '
+            if (epoch + 1) % 10 == 0:
+                microf1_valid, macrof1_valid, loss_valid = self.check_accurancy(valid_loader, criterion)
+                microf1_train, macrof1_train, loss_train = self.check_accurancy(train_loader, criterion)
+                self.writer.add_scalar('Loss/train', loss_train, epoch)
+                self.writer.add_scalar('Loss/valid', loss_valid, epoch)
+                self.writer.add_scalar('Microf1/train', microf1_train, epoch)
+                self.writer.add_scalar('Microf1/valid', microf1_valid, epoch)
+                self.writer.add_scalar('Macrof1/train', macrof1_train, epoch)
+                self.writer.add_scalar('Macrof1/valid', macrof1_valid, epoch)
+                print('Epoch [{}/{}], Loss: {:.4f} macrof1_train: {:.4f} microf1_train: {:.4f} '
                                 'macrof1_valid: {:.4f} microf1_valid: {:.4f}\n'
                                 .format(epoch + 1, num_epochs, loss.item(), macrof1_train, microf1_train,
                                         macrof1_valid, microf1_valid))
-                    if microf1_valid > best_score:
-                        best_score = microf1_valid
-                        PATH = os.path.join(savepath,'bestmodel.pth')
-                        torch.save(self.model.state_dict(), PATH)
+                if microf1_valid > best_score:
+                    best_score = microf1_valid
+                    PATH = os.path.join(savepath,'bestmodel.pth')
+                    torch.save(self.model.state_dict(), PATH)
 
-                if (epoch + 1) % 100 == 0 and step == 0:
+                if (epoch + 1) % 100 == 0:
                     with open(logdir, 'a+') as f:
                         f.write('Epoch [{}/{}], TrainingDataset: Loss: {:.4f} Macrof1: {:.4f} Microf1: {:.4f}\n'
                                 'ValidDataset: Loss: {:.4f} Macrof1: {:.4f} Microf1: {:.4f}\n'
